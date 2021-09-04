@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "React Crud for Grails,Springboot and node js",
   "main": "index.js",
-  "homepage": "https://harishbabu18.github.io/accelerate-ui",
+  "homepage": "https://teraret.github.io/accelerate-ui",
 
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
